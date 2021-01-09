@@ -1,0 +1,126 @@
+.menu{
+position: fixed;
+top:0px;
+left:0px;
+background: #7093DB;
+below:10px;
+width:100%;
+height:50;
+border:3px solid black;
+box-shadow: 3px  5px 8px black;
+}
+
+.tabla{
+top:0px;
+border-radius:8px;
+		border:2px solid green;
+		box-shadow:5px 7px 10px  green;
+}
+
+.ventana{
+
+background: red; 
+}
+.ventana2{
+
+background: #EAEAAE; 
+}
+.ventana3{
+
+background: #E6E8FA ; 
+}
+
+.cabeza{
+width:700;
+height:auto;
+background: white ; 
+border-radius: 25px;
+box-shadow: 5px  7px 10px pink;
+margin:10px 0px 10px;
+}
+
+.cuerpo{
+width:600;
+height:auto;
+background: white ; 
+border:px solid pink;
+margin : 20px 0px  20px;
+border-radius: 25px;
+box-shadow: 5px  7px 10px pink;
+margin:10px 0px 10px;
+}
+.anclaje{
+position: fixed;
+top:50;
+right:0px;
+border:5px solid black;
+margin:20px 0px 20px;
+box-shadow:5px 7px 10px black;
+}
+
+*{
+		margin:0px;
+		padding:0px;
+		}
+		#header{
+		margin:auto;
+		width: 500px;
+		font-family:Arial,Arial,Arial;
+		}
+		ul,ol{
+		list-style:none;
+		}
+		.nav > li{
+		float:left;
+		}
+		.nav li a{
+		background-color: red;
+		color:white;
+		text-decoration:none;
+		padding:10px 12px;
+		display:block;
+		border-radius:8px;
+		border:2px solid white;
+		box-shadow:5px 7px 10px  black;
+		}
+		.nav li a:hover{
+		 background-color: brown;
+		}
+		.nav  li ul{
+		display:none;		
+		position:absolute;
+		min-width:140px;
+		}
+		.nav li:hover > ul {
+		display:block;
+		}
+		.nav li ul li{
+		position:relative;
+		}
+		
+		
+		.nav li ul li ul {
+		right:-140px;
+		top:0px;
+		}
+	.cabe{
+	width:800;
+	height:350;
+	background: black ; 
+	border-radius:8px;
+		border:3px solid white;
+		box-shadow:7px 9px 11px  black;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+

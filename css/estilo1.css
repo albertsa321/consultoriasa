@@ -1,0 +1,188 @@
+body{
+	background-color:#93DB70;
+	font-family:Arial,Arial,Arial;
+	}
+	#contenido{
+	margin:auto;
+	width: 960px;
+	text-align:center;
+	color:white;
+	
+		}
+		
+	#ubi{
+	margin:auto;
+	width: 900px;
+	height:300px;
+	text-align:center;
+	background-color:white;
+	
+		}
+	#cont{
+	width:900px;
+	margin:0;
+	height:300px;
+	background:white ;		
+	text-align:left;
+	border-radius:10px;
+	padding:8px;
+	border:2px solid gray;
+	box-shadow:9px 9px 11px  black;
+	}
+	#slogan{
+	width:500px;
+	margin:0;
+	height:100px;
+	background: white ;		
+	text-align:center;
+	border-radius:10px;
+	padding:19px;
+	border:2px solid red;
+	box-shadow:9px 9px 11px  black;
+	}
+	
+	h1{
+	color:red;
+	font-family:Script MT Bold;
+	font-size:40px;
+	}
+	h1:hover{
+	color:#9370DB ;
+	}
+	
+	h2{
+	color:#32CD99 ;
+	}
+	h2:hover{
+	color:#9370DB ;
+	}
+	
+	h3{
+	color:white;
+	text-align:justify;
+	font-family:arial;
+	}
+	h3:hover{
+	color:#EBC79E;
+	}
+	h4{
+	color:#70DBDB ;
+	}
+	h4:hover{
+	color:#EAADEA;
+	}
+	
+	h5{
+	color:#70DBDB ;
+	}
+	h5:hover{
+	color:gray;
+	}
+	
+	#cuadro{
+
+	width:690;
+	margin:0;
+	height:305;
+	background: black ;		
+	text-align:left;
+	border-radius:8px;
+	padding:8px;
+	border:2px solid white;
+	box-shadow:7px 9px 11px  black;
+    }
+	
+	a{
+	color:#70DBDB ;
+	}
+	
+	a:hover{
+	color:#C0D9D9 ;
+	font-weight:bold;
+	}
+	meter{
+	width:200;
+	padding:5px;
+	border-radius:5px;
+	}
+		
+		#boton{
+		border:none;
+		background-color:aqua;
+		color:p;
+		padding:4px;
+		margin:20px;
+		}
+		a{
+		text-decoration:none;
+		}
+		
+		#en{
+		border:none;
+		background-color:#D19275 ;
+		color:#DBDB70 ;
+		font-family:Arial,Arial,Arial;
+		margin:20px;
+		cursor:pointer;
+		cursor:pointer;
+		width:60px;
+		height:20px;
+		}
+	#header{
+		margin:auto;
+		width: 600px;
+		font-family:Arial,Arial,Arial;
+		}
+		ul,ol{
+		list-style:none;
+		}
+		.nav > li{
+		float:left;
+		}
+		.nav li a{
+		background-color: #DBDB70 ;
+		color:white;
+		margin-right:15px;
+		text-decoration:none;
+		padding:10px 12px;
+		display:block;
+		border-radius:8px;
+		border:2px solid white;
+		box-shadow:5px 7px 10px  black;
+		}
+		.nav li a:hover{
+		 background-color:#C0D9D9  ;
+		 color:#527F76  ;
+		}
+		.nav  li ul{
+		display:none;		
+		position:absolute;
+		min-width:140px;
+		}
+		.nav li:hover > ul {
+		display:block;
+		}
+		.nav li ul li  {
+		position:relative;
+		}
+		.nav li ul li ul {
+		right:-140px;
+		top:0px;
+		}
+		img{
+			border-radius:10px;
+			border:2px solid white;
+			color:aqua;
+			top:15px;
+			left:10px;
+		}
+			
+	ol{
+	color:blue;
+	}	
+	ol:hover{
+	color:yellow;
+	}
+		
+		
+	
